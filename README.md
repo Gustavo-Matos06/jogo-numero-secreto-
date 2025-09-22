@@ -9,6 +9,7 @@ Exibe mensagens de vitória quando o número é descoberto.<br><p>
 <p>HTML5 → estrutura do jogo.<br>
 CSS3 → estilização da interface.<br>
 JavaScript → lógica do jogo (geração do número, validações, feedback ao jogador).<p>
+<h1 align="center">✅ CONCLUÍDO ✅</h1>
 
 
 
